@@ -66,6 +66,8 @@ Based on the following mockup :
 [collection](https://madelinehenry.github.io/09-PaintingCollection/.)
 
 ![image](https://github.com/madelinehenry/09-PaintingCollection/blob/main//img/PaintingCollection.png)
+
+[Github page](https://madelinehenry.github.io/09-PaintingCollection/)
  
 
 ## Auteurs
