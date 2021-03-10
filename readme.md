@@ -27,6 +27,7 @@ What you need to get started ...
 
 - basics in **HTML**
 - basics in **CSS**
+- basics in **Bulma**
 - basics in **JavaScript**
 - be ready to learn a Framework (In my case : I used **BULMA**)
 - Top work mates or a good ability to do internet research on your own :muscle: 
